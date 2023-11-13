@@ -16,7 +16,7 @@ Why are you still here? Go check them out!
 
 ...
 
-You're still here? Okay uh, bit unexpected, but sure I guess I can try to keep you busy (o_O)
+You're still here? Okay uh, bit unexpected, but sure I guess I can try to keep you busy (-_-)
 
 How about a game of exes and ohs! I'll be Os!
 
