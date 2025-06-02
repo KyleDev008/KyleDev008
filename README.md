@@ -4,7 +4,7 @@ Not sure why you'd want to be here, but since you are, I may as well introduce m
 
 I'm Kyle, but you knew that already. Anyway, in terms of doing, this is who I am to most of the world VVV
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=1FF704&background=000000&vCenter=true&random=false&width=435&lines=%3A%3E+System+Developer;%3A%3E+Ethical+Hacker;%3A%3E+Tinkerer">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=1FF704&background=000000&vCenter=true&random=false&width=435&lines=%3A%3E+Senior+Developer;%3A%3E+Ethical+Hacker;%3A%3E+Tinkerer">
 
 To everyone else, well I'm just Kyle (O_O)
 
