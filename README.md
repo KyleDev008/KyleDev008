@@ -34,6 +34,7 @@ Oh, right... You can't play along (._.)...
 
 Okay how about I just leave you with some nice ascii art to look, curtousy of me? Great!
 
+```
                                          ^
                                         / \
                                        /   \
@@ -77,5 +78,7 @@ Okay how about I just leave you with some nice ascii art to look, curtousy of me
                         |  ( \ \    ) (   | |      | (      
                         |  /  \ \   | |   | (____/\| (____/\
                         |_/    \/   \_/   (_______/(_______/
-                                    
+
+```
+
 Last updated: 2025-10-06 20:20:01
