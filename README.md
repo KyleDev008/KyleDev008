@@ -8,7 +8,7 @@ I'm Kyle, but you knew that already. Anyway, in terms of doing, this is who I am
 
 To everyone else, well I'm just Kyle (O_O)
 
-If you were expecting personal details then I sorry, but you won't find those here (x_x)
+If you were expecting personal details then I'm sorry, but you won't find those here (x_x)
 
 What you can find, however, is whatever cool sh*t I've pushed to my repos by the time you're here!
 
