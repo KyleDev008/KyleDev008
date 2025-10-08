@@ -8,7 +8,7 @@ I'm Kyle, but you knew that already. Anyway, in terms of doing, this is who I am
 
 To everyone else, well I'm just Kyle (O_O)
 
-If you were expecting personal details then I sorry, but you won't find those here (x_x)
+If you were expecting personal details then I'm sorry, but you won't find those here (x_x)
 
 What you can find, however, is whatever cool sh*t I've pushed to my repos by the time you're here!
 
@@ -34,6 +34,7 @@ Oh, right... You can't play along (._.)...
 
 Okay how about I just leave you with some nice ascii art to look, curtousy of me? Great!
 
+```
                                          ^
                                         / \
                                        /   \
@@ -68,4 +69,16 @@ Okay how about I just leave you with some nice ascii art to look, curtousy of me
                                        |__|
                                       ( __ )
                                         \/
-Last updated: 2025-10-08 08:03:35
+
+                         _                 _        _______ 
+                        | \    /\|\     /|( \      (  ____ \
+                        |  \  / /( \   / )| (      | (    \/
+                        |  (_/ /  \ (_) / | |      | (__    
+                        |   _ (    \   /  | |      |  __)   
+                        |  ( \ \    ) (   | |      | (      
+                        |  /  \ \   | |   | (____/\| (____/\
+                        |_/    \/   \_/   (_______/(_______/
+
+```
+
+Last updated: 2025-10-08 08:10:02
