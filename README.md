@@ -9,12 +9,7 @@ Most of my work lives in Python, Flask, Dart/Flutter, and systems‑level toolin
 
 ---
 
-## 🚀 What I Work On
-
-### **Embedded & Hardware‑Adjacent Projects**
-- **AlphaBot2‑Pi‑Core**  
-  Core control software for the AlphaBot2 platform — GPIO handling, sensor integration, and movement logic written in Python.  
-  *A fun blend of robotics, low‑level control, and clean modular design.*
+## What I Work On
 
 ### **Developer Tools & Automation**
 - Internal utilities, workflow optimizers, and small tools that make development faster, cleaner, or less painful.
@@ -26,7 +21,7 @@ Most of my work lives in Python, Flask, Dart/Flutter, and systems‑level toolin
 
 ---
 
-## 🧠 What I’m Good At
+## What I’m Good At
 - **Systems architecture** — designing software that scales without becoming a maintenance nightmare  
 - **Python & Flask** — APIs, automation, backend services  
 - **Flutter** — cross‑platform apps with native polish  
@@ -35,14 +30,14 @@ Most of my work lives in Python, Flask, Dart/Flutter, and systems‑level toolin
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 - Building smarter local‑first tools powered by LLMs  
 - Improving developer experience through automation and custom tooling  
 - Expanding robotics and embedded systems projects  
 
 ---
 
-## 📫 Connect
+## Connect
 If you want to collaborate, chat tech, or break something in the name of learning, reach out.  
 I’m always open to interesting problems and ambitious ideas.
 
