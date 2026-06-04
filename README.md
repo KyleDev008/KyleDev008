@@ -1,84 +1,48 @@
-# About Me
-
-Not sure why you'd want to be here, but since you are, I may as well introduce myself...
-
-I'm Kyle, but you knew that already. Anyway, in terms of doing, this is who I am to most of the world VVV
-
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=1FF704&background=000000&vCenter=true&random=false&width=435&lines=%3A%3E+Senior+Developer;%3A%3E+Ethical+Hacker;%3A%3E+Tinkerer">
 
-To everyone else, well I'm just Kyle (O_O)
+# Hey, I'm Kyle — Developer, Systems Architect & Builder of Things That Actually Ship
 
-If you were expecting personal details then I'm sorry, but you won't find those here (x_x)
+I design and build software with a simple philosophy:  
+**make it fast, make it clean, make it scale, and make it something people actually want to use.**
 
-What you can find, however, is whatever cool sh*t I've pushed to my repos by the time you're here!
+Most of my work lives in Python, Flask, Dart/Flutter, and systems‑level tooling — but I’m happiest when I’m deep in architecture, automation, or solving the kind of problems that don’t have a StackOverflow answer yet.
 
-Why are you still here? Go check them out!
+---
 
-...
+## 🚀 What I Work On
 
-You're still here? Okay uh, bit unexpected, but sure I guess I can try to keep you busy (-_-)
+### **Embedded & Hardware‑Adjacent Projects**
+- **AlphaBot2‑Pi‑Core**  
+  Core control software for the AlphaBot2 platform — GPIO handling, sensor integration, and movement logic written in Python.  
+  *A fun blend of robotics, low‑level control, and clean modular design.*
 
-How about a game of exes and ohs! I'll be Os!
+### **Developer Tools & Automation**
+- Internal utilities, workflow optimizers, and small tools that make development faster, cleaner, or less painful.
+- Experiments with local LLM integration, VS Code tooling, and productivity enhancements.
 
-```
-___ | ___ | ___
-___ | _O_ | ___
-    |     |
-```
+### **Cross‑Platform App Development**
+- Building native‑feeling apps with **Flutter**, integrating APIs, authentication, and platform‑specific capabilities.
+- Architecting scalable, maintainable app structures that don’t collapse under real‑world use.
 
-Okay your turn!
+---
 
-...
+## 🧠 What I’m Good At
+- **Systems architecture** — designing software that scales without becoming a maintenance nightmare  
+- **Python & Flask** — APIs, automation, backend services  
+- **Flutter** — cross‑platform apps with native polish  
+- **Hardware integration** — sensors, robotics, GPIO, microcontrollers  
+- **Workflow engineering** — making complex processes simple, fast, and reproducible  
 
-Oh, right... You can't play along (._.)...
+---
 
-Okay how about I just leave you with some nice ascii art to look, curtousy of me? Great!
+## 📌 Current Focus
+- Building smarter local‑first tools powered by LLMs  
+- Improving developer experience through automation and custom tooling  
+- Expanding robotics and embedded systems projects  
 
-```
-                                         ^
-                                        / \
-                                       /   \
-                                      /  .  \
-                                  |\_/  / \  \_/|
-                                  |    /   \    |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                                  |   |     |   |
-                          |\_____ | _ | ___ | _ | _____/|
-                          |                             |
-                           \_______             _______/
-                                   \           /
-                                    \_________/
-                                       |  |
-                                       |  |
-                                       |  |
-                                       |  |
-                                       |  |
-                                       |__|
-                                      ( __ )
-                                        \/
+---
 
-                         _                 _        _______ 
-                        | \    /\|\     /|( \      (  ____ \
-                        |  \  / /( \   / )| (      | (    \/
-                        |  (_/ /  \ (_) / | |      | (__    
-                        |   _ (    \   /  | |      |  __)   
-                        |  ( \ \    ) (   | |      | (      
-                        |  /  \ \   | |   | (____/\| (____/\
-                        |_/    \/   \_/   (_______/(_______/
+## 📫 Connect
+If you want to collaborate, chat tech, or break something in the name of learning, reach out.  
+I’m always open to interesting problems and ambitious ideas.
 
-```
-
-Last updated: 2025-12-27 10:10:02
