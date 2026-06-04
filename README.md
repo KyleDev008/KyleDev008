@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=2500&pause=1000&color=1FF704&background=000000&vCenter=true&random=false&width=435&lines=%3A%3E+Senior+Developer;%3A%3E+Ethical+Hacker;%3A%3E+Tinkerer">
 
-# Hey, I'm Kyle — Developer, Systems Architect & Builder of Things That Actually Ship
+# Hey, I'm Kyle — Senior Developer, Ethical Hacker, Systems Architect & Builder of Things
 
 I design and build software with a simple philosophy:  
 **make it fast, make it clean, make it scale, and make it something people actually want to use.**
